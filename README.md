@@ -6,4 +6,4 @@ index.html
 
 
 quotes.html
-![image](https://user-images.githubusercontent.com/75579825/203792366-96bad272-62e5-4434-a769-8552c069b3af.png)
+![image](https://github.com/Abhishek98negi/daily-quotes/assets/75579825/1f93eced-2585-41c9-bb95-76aba21f8b04)
